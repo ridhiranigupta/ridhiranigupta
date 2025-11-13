@@ -1,34 +1,39 @@
-# Hi there 👋, I'm Ridhirani Gupta
+![Header](https://capsule-render.vercel.app/api?type=blur&height=300&color=FF69B4&text=Hello%20👋&reversal=false&textBg=false&fontColor=FFFFFF&animation=fadeIn)
 
-![Animated Banner](https://user-images.githubusercontent.com/12345678/animated-banner.gif)
-
-## 🚀 About Me
-🎓 I’m a B.Tech Computer Science and Engineering student at **SRM Institute of Science and Technology, Kattankulathur (SRMIST KTR)**.  
-🌟 Passionate about coding, problem-solving, and creating impactful software solutions.  
-💻 Exploring new technologies and contributing to open-source projects.  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&lines=I'm+Ridhi+Gupta;Student+at+SRMIST+KTR;Building+useful+things+that+make+life+easier!)](https://git.io/typing-svg)
 
 ---
 
-## 💻 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,cpp,html,css,git,linux" alt="Tech Stack" />
-</p>
+### 💫 About Me
+I'm a developer who loves building practical, thoughtful solutions — exploring everything from expression evaluators to smart shopping tools.
 
 ---
 
-## 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ridhiranigupta&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridhiranigupta&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+### 🚀 Featured Projects
+- **[enhanced-calculator](https://github.com/ridhiranigupta/enhanced-calculator)**  
+  A compact expression evaluator with scientific functions, memory/history.  
+  **Tech:** JavaScript, CSS, HTML
+
+- **[smart-shopping](https://github.com/ridhiranigupta/smart-shopping)**  
+  Compare prices, manage shopping lists, and discover deals across stores.  
+  **Tech:** Java, CSS
 
 ---
 
-
-## ✨ Highlights
-- 🌟 **Open Source Enthusiast**: Contributing to various open-source repositories.
-- 🎯 **Focused on Growth**: Always learning and pushing boundaries.
-- 🏆 **Team Player**: Collaborating and building together.
+### 🛠️ Languages & Tools
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,git,github,vscode)](https://skillicons.dev)
 
 ---
 
+### 📈 GitHub Stats
+![Ridhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ridhiranigupta&show_icons=true&theme=tokyonight)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ridhiranigupta&theme=highcontrast&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+
+---
+
+### 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ridhi%20Gupta-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ridhiranigupta)
+[![GitHub](https://img.shields.io/badge/GitHub-ridhiranigupta-lightgrey?style=flat-square&logo=github)](https://github.com/ridhiranigupta)
+![Profile views](https://komarev.com/ghpvc/?username=ridhiranigupta&label=Profile%20views&color=blueviolet&style=flat)
+---
