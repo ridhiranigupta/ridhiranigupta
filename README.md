@@ -1,5 +1,3 @@
-![Header](https://capsule-render.vercel.app/api?type=blur&height=300&color=FF69B4&text=Hello%20👋&reversal=false&textBg=false&fontColor=FFFFFF&animation=fadeIn)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&lines=I'm+Ridhi+Gupta;Student+at+SRMIST+KTR;Building+useful+things+that+make+life+easier!)](https://git.io/typing-svg)
 
 ---
