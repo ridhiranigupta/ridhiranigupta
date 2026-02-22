@@ -32,7 +32,6 @@ I'm a developer who loves building practical, thoughtful solutions — exploring
 
 ### 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ridhi%20Gupta-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ridhiranigupta) |
-[![GitHub](https://img.shields.io/badge/GitHub-Ridhi_Gupta-ff69b4?style=flat-square&logo=github&logoColor=white)](https://github.com/ridhiranigupta) 💗
-[![GitHub](https://img.shields.io/badge/GitHub-MyGuchuPuchu-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/aryan-astra) |
+[![GitHub](https://img.shields.io/badge/GitHub-Ridhi_Gupta-ff69b4?style=flat-square&logo=github&logoColor=white)](https://github.com/ridhiranigupta) 
 ![Profile views](https://komarev.com/ghpvc/?username=ridhiranigupta&label=Profile%20views&color=blueviolet&style=flat)
 ---
